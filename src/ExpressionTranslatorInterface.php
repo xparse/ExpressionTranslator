@@ -14,6 +14,6 @@
      * @param string $expression
      * @return string
      */
-    public function toXpath($expression);
+    public function convertToXpath($expression);
 
   }

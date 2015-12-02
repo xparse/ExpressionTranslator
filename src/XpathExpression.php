@@ -10,7 +10,7 @@
     /**
      * @inheritdoc
      */
-    public function toXpath($expression) {
+    public function convertToXpath($expression) {
       return $expression;
     }
     
