@@ -1,0 +1,31 @@
+{
+  "name": "xparse/expression-translator",
+  "description": "Translate custom expressions to xpath",
+  "keywords": [],
+  "homepage": "https://github.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "funivan",
+      "email": "dev@funivan.com",
+      "homepage": "http://funivan.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "xparse\\ExpressionTranslator\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "xparse\\ExpressionTranslator\\Test\\": "tests"
+    }
+  }
+}
