@@ -20,12 +20,12 @@
   },
   "autoload": {
     "psr-4": {
-      "xparse\\ExpressionTranslator\\": "src"
+      "Xparse\\ExpressionTranslator\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "xparse\\ExpressionTranslator\\Test\\": "tests"
+      "Xparse\\ExpressionTranslator\\Test\\": "tests"
     }
   }
 }
