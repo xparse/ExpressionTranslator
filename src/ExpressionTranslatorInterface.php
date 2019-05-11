@@ -10,10 +10,7 @@
     /**
      * Translate expression to xpath
      * For example you can use css
-     *
-     * @param string $expression
-     * @return string
      */
-    public function convertToXpath($expression);
+    public function convertToXpath(string $expression) : string;
 
   }
