@@ -3,7 +3,7 @@
 namespace Xparse\ExpressionTranslator;
 
 /**
- * @author Ivan Shcherbak <dev@funivan.com> 02.12.15
+ * @author Ivan Shcherbak <alotofall@gmail.com>
  */
 class XpathExpression implements ExpressionTranslatorInterface
 {
