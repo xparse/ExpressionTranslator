@@ -3,6 +3,7 @@ All Notable changes to `ExpressionTranslator` will be documented in this file
 
 ## Planned changes
 Create the release of version 1.0.0.
+No breaking changes.
 
 ## 0.0.5-alpha [2021-04-22]
 - Add php 8.0 support
